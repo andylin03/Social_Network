@@ -1,0 +1,15 @@
+[
+    {
+      "username": "john_doe",
+      "thoughtText": "Im happy."
+    },
+    {
+      "username": "jane_smith",
+      "thoughtText": "I hate it here."
+    },
+    {
+      "username": "bob_johnson",
+      "thoughtText": "Bob's thought: What a fascinating topic!"
+    }
+  ]
+  
