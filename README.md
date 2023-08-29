@@ -98,7 +98,7 @@ This is a noSQL database using MongoDB that allows for API endpoints to interact
 ```
 ## Usage:
 
-This database gives API endpoints for databse interaction with a soecial networking site. 
+This database gives API endpoints for databse interaction with a social networking site. 
 
 ## User Story: 
 
