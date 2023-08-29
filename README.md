@@ -16,7 +16,7 @@ This is a noSQL database using MongoDB that allows for API endpoints to interact
 - [Technologies Used](#languages)
 
 ## Walkthrough Video
-[Link to Full Walkthrough Video](https://drive.google.com/drive/my-drive?q=parent:0AGnfrLhiy_qHUk9PVA%20type:video)
+[Link to Full Walkthrough Video](https://drive.google.com/file/d/12XOQk-GZkA9A_E6gw4iBPSAhE-i_ViKS/view?usp=sharing)
 
 ## Examples
 * User Object:
